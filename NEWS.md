@@ -1,5 +1,12 @@
 # (upcoming)
 
+##### Rework mode-line menus ([#792][github#792])
+
+The new menus help discovering Egolot's feautres and shows which of
+them are supported by the current server.  Additionally, customizing
+variable `eglot-mode-line-sting` can leave more space on the
+mode-line.
+
 ##### Show project wide diagnosics ([#810][github#810])
 Some LSP servers report diagnostics for all files in the current
 workspace.  Flymake has as of version 1.2.1 the option to show
@@ -344,6 +351,7 @@ and now said bunch of references-->
 [github#751]: https://github.com/joaotavora/eglot/issues/751
 [github#769]: https://github.com/joaotavora/eglot/issues/769
 [github#787]: https://github.com/joaotavora/eglot/issues/787
+[github#792]: https://github.com/joaotavora/eglot/issues/792
 [github#794]: https://github.com/joaotavora/eglot/issues/794
 [github#797]: https://github.com/joaotavora/eglot/issues/797
 [github#803]: https://github.com/joaotavora/eglot/issues/803
